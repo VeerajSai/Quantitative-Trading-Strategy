@@ -370,18 +370,6 @@ Typical results on November 2023 BTC 1-minute data (43,200 samples):
 
 See `requirements.txt` for exact versions.
 
-## Future Enhancements
-
-- Add more technical indicators (RSI, MACD, Bollinger Bands)
-- Implement walk-forward backtesting
-- Add transaction costs and slippage simulation
-- Expand to multiple cryptocurrencies
-- Hyperparameter optimization (grid search, Bayesian)
-- REST API for real-time predictions
-- Docker containerization
-- Unit tests (pytest)
-- CI/CD pipeline (GitHub Actions)
-
 ## Limitations
 
 - Uses 1-minute OHLCV data (other timeframes not tested)
@@ -391,17 +379,7 @@ See `requirements.txt` for exact versions.
 - Limited to features from OHLCV data
 - No external data sources (news, sentiment)
 
-## License
 
-[Add license information]
-
-## Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Submit a pull request
 
 ## References
 
